@@ -12,7 +12,8 @@
     "terminalID": "71000453",
     "customerID": "00000000000001",
     "acqIndetifier": "",
-    "acqName": ""
+    "acqName": "",
+    "merchantVatNumber": "979703476"
   },
   "multiAcq": {
     "acquirers": [
@@ -239,32 +240,34 @@
     }
   ],
   "loyaltySettings": {
-    "alphaBankBonusEnabled": false,
+    "alphaBankBonusEnabled": true,
     "alphaBankBonusVTid": "71000833",
     "alphaBankBonusVMid": "0021701727",
     "useAlphaBankBonusBRAmount": false,
     "useAlphaBankBonusWithoutOffers": false,
-    "eurobankEuroepistrofiEnabled": false,
+    "eurobankEuroepistrofiEnabled": true,
     "eurobankEuroepistrofiVTid": "71000833",
     "eurobankEuroepistrofiVMid": "0021701727",
     "eurobankEuroepistrofiUploadFullRedemption": true,
-    "nbgGo4MoreEnabled": false,
+    "nbgGo4MoreEnabled": true,
     "nbgGo4MoreVTid": "33015845",
     "nbgGo4MoreVMid": "3166741",
-    "pbgYellowEnabled": false,
+    "pbgYellowEnabled": true,
     "pbgYellowVTid": "03974427",
     "pbgYellowVMid": "140974429",
     "pbgYellowPointsToRedeem": "2000",
     "sklavenitisPrepaidEnabled": true,
     "asfalistikosgoneasEnabled": true,
-    "asfalistikosgoneasForceOnline": true,
+    "asfalistikosgoneasForceOnline": false,
     "cardlinkLoyaltyEnabled": false
   },
   "ecrSettings": {
     "ecrSystem": true,
     "ecrSystemDefaultPort": 4000,
     "ecrSystemMode": 0,
-    "ecrSystemProtocol": 0
+    "ecrSystemProtocol": 0,
+    "supportBonusPoolBlock": true,
+    "ecrVendor": "2"
   },
   "billPayment": {
     "useBillPayment": false,
