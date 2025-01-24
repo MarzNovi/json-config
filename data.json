@@ -1,3 +1,4 @@
+
 {
   "merchant": {
     "merchantCity": "HRAKLEION",
@@ -240,19 +241,19 @@
     }
   ],
   "loyaltySettings": {
-    "alphaBankBonusEnabled": true,
+    "alphaBankBonusEnabled": false,
     "alphaBankBonusVTid": "71000833",
     "alphaBankBonusVMid": "0021701727",
     "useAlphaBankBonusBRAmount": false,
     "useAlphaBankBonusWithoutOffers": false,
-    "eurobankEuroepistrofiEnabled": true,
+    "eurobankEuroepistrofiEnabled": false,
     "eurobankEuroepistrofiVTid": "71000833",
     "eurobankEuroepistrofiVMid": "0021701727",
-    "eurobankEuroepistrofiUploadFullRedemption": true,
-    "nbgGo4MoreEnabled": true,
+    "eurobankEuroepistrofiUploadFullRedemption": false,
+    "nbgGo4MoreEnabled": false,
     "nbgGo4MoreVTid": "33015845",
     "nbgGo4MoreVMid": "3166741",
-    "pbgYellowEnabled": true,
+    "pbgYellowEnabled": false,
     "pbgYellowVTid": "03974427",
     "pbgYellowVMid": "140974429",
     "pbgYellowPointsToRedeem": "2000",
