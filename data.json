@@ -90,7 +90,7 @@
     "autoReactivationTimer": "180",
     "useAutoCloseBatch": true,
     "useAutoCloseBatchTimer": "22:05",
-    "useAutoParams": false,
+    "useAutoParams": true,
     "useAutoParamsTimer": "21:45",
     "alphaBankDCCSupport": false,
     "alphaBankDCCProfileId": "19011",
