@@ -26,46 +26,6 @@
         "allowKeyEntry": false,
         "allowMoto": false,
         "acqTheme" : "corn"
-      },
-      {
-        "acqIndetifier": "026",
-        "acqName": "EURO BANK",
-        "allowLocal": true,
-        "allowRefund": true,
-        "allowKeyEntry": true,
-        "allowMoto": true
-      },
-      {
-        "acqIndetifier": "011",
-        "acqName": "NBG",
-        "allowLocal": true,
-        "allowRefund": true,
-        "allowKeyEntry": false,
-        "allowMoto": false
-      },
-      {
-        "acqIndetifier": "887",
-        "acqName": "CARDLINK ONE",
-        "allowLocal": true,
-        "allowRefund": true,
-        "allowKeyEntry": true,
-        "allowMoto": true
-      },
-      {
-        "acqIndetifier": "017",
-        "acqName": "Piraeus",
-        "allowLocal": true,
-        "allowRefund": true,
-        "allowKeyEntry": true,
-        "allowMoto": true
-      },
-      {
-        "acqIndetifier": "016",
-        "acqName": "Attica",
-        "allowLocal": true,
-        "allowRefund": true,
-        "allowKeyEntry": true,
-        "allowMoto": true
       }
     ]
   },
