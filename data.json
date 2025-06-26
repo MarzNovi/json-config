@@ -148,6 +148,8 @@
     "supportPleaseCallMeEnabled": true,
     "supportOrderThermalRollEnabled": true,
     "defaultLanguage": "el",
+    "supportPleaseCallMeEnabled": true,
+    "supportOrderThermalRollEnabled": true,
     "receiptSettings": {
       "showEmvDataInReceipt": false,
       "acquirerBankNameAsBIDSetting": false,
