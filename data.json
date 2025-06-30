@@ -251,9 +251,9 @@
     "useAlphaBankBonusBRAmount": false,
     "useAlphaBankBonusWithoutOffers": false,
     "eurobankEuroepistrofiEnabled": true,
-    "eurobankEuroepistrofiVTid": "71000833",
-    "eurobankEuroepistrofiVMid": "0021701727",
-    "eurobankEuroepistrofiUploadFullRedemption": false,
+    "eurobankEuroepistrofiVTid" : "77615701",
+    "eurobankEuroepistrofiVMid" : "0023839673"
+    "eurobankEuroepistrofiUploadFullRedemption": true,
     "nbgGo4MoreEnabled": true,
     "nbgGo4MoreVTid": "33015845",
     "nbgGo4MoreVMid": "3166741",
