@@ -67,6 +67,17 @@
         "allowRefund": true,
         "allowKeyEntry": true,
         "allowMoto": true
+      },
+	 {
+	    "acqIndetifier" : "014",
+	    "acqName" : "NEXI",
+	    "allowLocal" : true,
+	    "allowPremiumLocal" : false,
+	    "allowRefund" : true,
+	    "allowKeyEntry" : true,
+	    "allowMoto" : true,
+	    "premiumLocalApprovalCode" : "",
+	    "acqTheme" : "possible"
       }
     ]
   },
